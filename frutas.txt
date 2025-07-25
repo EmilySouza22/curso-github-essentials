@@ -1,3 +1,5 @@
 laranja
 banana
 uva
+goiaba
+jabuticaba
