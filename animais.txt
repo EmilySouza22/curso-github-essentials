@@ -1,0 +1,4 @@
+camelo
+cavalo
+cachorro
+porco
