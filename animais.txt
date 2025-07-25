@@ -2,3 +2,4 @@ camelo
 cavalo
 cachorro
 porco
+vaca
