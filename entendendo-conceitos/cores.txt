@@ -1,4 +1,5 @@
 azul
 amarelo
 verde
-roxo
+branco
+vermelho
