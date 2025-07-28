@@ -4,3 +4,6 @@ cachorro
 porco
 vaca
 baleia
+coruja
+sapo
+avestruz
