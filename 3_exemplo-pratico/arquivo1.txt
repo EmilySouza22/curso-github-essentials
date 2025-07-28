@@ -2,3 +2,8 @@ fonte
 processador
 placa mae
 placa de video
+computador
+teclado
+mouse
+monitor
+gabinete

@@ -1,3 +1,7 @@
 campos
 mar
 ilhas
+praia
+céu
+deserto
+floresta

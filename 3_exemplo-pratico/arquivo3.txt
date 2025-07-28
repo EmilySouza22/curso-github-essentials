@@ -1,0 +1,4 @@
+anime
+filme
+série
+jogo
