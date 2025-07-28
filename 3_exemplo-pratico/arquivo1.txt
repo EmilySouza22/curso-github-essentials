@@ -1,0 +1,4 @@
+fonte
+processador
+placa mae
+placa de video
