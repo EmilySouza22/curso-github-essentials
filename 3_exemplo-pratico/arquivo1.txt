@@ -6,4 +6,3 @@ computador
 teclado
 mouse
 monitor
-gabinete
