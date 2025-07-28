@@ -3,3 +3,6 @@ cavalo
 cachorro
 porco
 vaca
+coruja
+sapo
+avestruz
