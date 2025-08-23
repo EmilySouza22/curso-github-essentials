@@ -3,3 +3,4 @@ amarelo
 verde
 branco
 vermelho
+rosa
