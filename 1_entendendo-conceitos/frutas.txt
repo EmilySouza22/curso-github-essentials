@@ -1,7 +1,4 @@
 laranja
 banana
 uva
-goiaba
-jabuticaba
-limão
-melancia
+melão
