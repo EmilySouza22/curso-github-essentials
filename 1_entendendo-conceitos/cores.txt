@@ -5,3 +5,4 @@ branco
 vermelho
 rosa
 lilas
+ciano

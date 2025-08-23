@@ -4,3 +4,4 @@ uva
 goiaba
 jabuticaba
 limão
+melancia
